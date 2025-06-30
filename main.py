@@ -1,1 +1,1 @@
-print("Hello AI and GitHub!")
+print("Hello AI and GitHub!") # анх удаа ажиллуулж байна.
